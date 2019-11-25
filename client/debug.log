@@ -1,0 +1,8 @@
+[1104/102212.535:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Kendall\AppData\Local\Google\Chrome\User Data\Crashpad\reports\85bd5a11-217d-44b0-924a-6228cf4a413b.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1104/130612.804:ERROR:process_info.cc(359)] UncheckedAllocate
+[1104/174844.019:ERROR:process_info.cc(359)] UncheckedAllocate
+[1104/180958.853:ERROR:process_info.cc(359)] UncheckedAllocate
+[1104/195415.086:ERROR:process_info.cc(359)] UncheckedAllocate
+[1104/195415.088:ERROR:process_info.cc(359)] UncheckedAllocate
+[1108/165649.150:ERROR:process_info.cc(359)] UncheckedAllocate
+[1108/193133.603:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Kendall\AppData\Local\Google\Chrome\User Data\Crashpad\reports\5aa03486-b18e-4555-ae92-97fc83def17e.dmp: The process cannot access the file because it is being used by another process. (0x20)
