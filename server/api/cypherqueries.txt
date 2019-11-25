@@ -1,0 +1,5 @@
+RETURNS all POIS accessible to the area
+
+MATCH (a:Area{id:"c9e177b1-7f2a-419d-847d-77e284e0e7b4"})-[:CAN_GO_TO]-(b:Area) 
+OPTIONAL MATCH (b)-[:CAN_ACCESS]->(c:POI) 
+RETURN c
